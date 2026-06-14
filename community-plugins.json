@@ -33374,5 +33374,12 @@
     "author": "Mirco Macrelli",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Automatically include the image linked in the property cover at the top of the note body.",
     "repo": "mircomacrelli/folder-icon"
+  },
+  {
+    "id": "hypermnesic-companion",
+    "name": "Hypermnesic Companion",
+    "author": "Leonard Sellem",
+    "description": "Surface read-only, pause-triggered related notes and an interrogable reinvention nudge from your tailnet hypermnesic index as you write. Never writes the vault.",
+    "repo": "leonardsellem/hypermnesic-companion"
   }
 ]
